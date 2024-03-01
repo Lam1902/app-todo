@@ -1,0 +1,23 @@
+{
+  "name": "app_node_todos",
+  "version": "1.0.0",
+  "description": "single page todos application with node and angular",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node-todos"
+  ],
+  "author": "Lam1902",
+  "license": "MIT",
+  "dependencies": {
+  
+    "body-parser": "^1.20.2",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "mongodb": "^6.3.0",
+    "mongoose": "^8.2.0",
+    "morgan": "^1.10.0"
+  }
+}
